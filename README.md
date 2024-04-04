@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Dr-Wolf-93
 - 👀 I'm interested in the application of AI in the food industry.
 - 🌱 I’m currently learning Python and Machine learning.
+- 🦾 Where I'm an expert is the food industry.
 - ⚡ Fun fact: A vegan developer from the meat industry.
 <!---
 Dr-Wolf-93/Dr-Wolf-93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
